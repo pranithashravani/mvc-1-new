@@ -1,0 +1,4 @@
+domain/User.class
+domain/Userconfig.class
+domain/Usercontroller.class
+domain/Userinit.class
